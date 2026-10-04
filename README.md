@@ -4,7 +4,7 @@ Add a sidebar file explorer/treeview navigation to the [Helix Editor](https://he
 
 ---
 
-<video src="Demo.webm" width="100%" controls></video>
+<video src="./Demo.webm" width="100%" controls></video>
 
 ---
 
