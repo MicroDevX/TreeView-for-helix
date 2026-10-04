@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+tmux
+
+tmux split-window -h -l 25% -b "yazi"
+
+tmux select-pane -R
+hx "$@"
