@@ -4,7 +4,9 @@ Add a sidebar file explorer/treeview navigation to the [Helix Editor](https://he
 
 ---
 
-https://github.com/MicroDevX/TreeView-for-helix/blob/main/Demo.mp4
+<video src="Demo.mp4" width="100%" controls></video>
+
+---
 
 ## 📋 Prerequisites & Requirements
 
