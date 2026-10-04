@@ -4,6 +4,10 @@ Add a sidebar file explorer/treeview navigation to the [Helix Editor](https://he
 
 ---
 
+<video src="Demo.webm" width="100%" controls></video>
+
+---
+
 ## 📋 Prerequisites & Requirements
 
 Before setting up, make sure you have the following installed and configured:
