@@ -18,7 +18,7 @@ Before setting up, make sure you have the following installed and configured:
 2. **Yazi**: A fast terminal file manager written in Rust.
    * [Yazi Installation Guide](https://yazi-rs.github.io/docs/installation)
 3. **TreeView Script**:
-   * Download the script from the repository: [TreeView-for-helix](https://github.com/MicroDevX/TreeView-for-helix)
+   * Download the script from the repository: [TreeView-for-helix](https://github.com/MicroDevX/TreeView-for-helix/releases/download/1/treeview)
    * Make it executable and place it in your `$PATH`:
      ```bash
      chmod +x treeview
